@@ -14,7 +14,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @Entity
 @JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Album {
-       	
+       	//swdfghjtyujkl
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int albumId;
